@@ -1,0 +1,12 @@
+Done Loading Modules...
+Going to compile for GPU and CPU
+Allocated computing node: compute-652-1
+Going to run in GPU
+starting hyperQ...
+GPU Device 0: "Tesla K20m" with compute capability 3.5
+
+> Detected Compute SM 3.5 hardware with 13 multi-processors
+Expected time for serial execution of 32 sets of kernels is between approx. 0.330s and 0.640s
+Expected time for fully concurrent execution of 32 sets of kernels is approx. 0.020s
+Measured time for sample = 0.000s
+Done...
